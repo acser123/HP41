@@ -1,0 +1,14 @@
+ 01 LBL "HEIGHT" 
+ 02 RDN 
+ 03 TAN 
+ 04 1/X 
+ 05 X<>Y 
+ 06 TAN 
+ 07 1/X 
+ 08 X<>Y 
+ 09 - 
+ 10 X<>Y 
+ 11 RDN 
+ 12 / 
+ 13 RTN 
+ 14 END 
