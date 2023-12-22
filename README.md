@@ -1,1 +1,1 @@
-# HP41 Siple elevator in HP41 FOCAL.
+# HP41 Simple elevator in HP41 FOCAL.
